@@ -1,0 +1,26 @@
+{
+  "name": "vite-mf-micro",
+  "version": "1.0.0",
+  "description": "implement micro-frontends architecture with vite & react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeeeeeM/vite-mf-micro.git"
+  },
+  "keywords": [
+    "micro-frontends",
+    "architecture",
+    "vite",
+    "mf",
+    "react"
+  ],
+  "author": "Gwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeeeeeM/vite-mf-micro/issues"
+  },
+  "homepage": "https://github.com/LeeeeeeM/vite-mf-micro#readme"
+}
